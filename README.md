@@ -1,4 +1,4 @@
-### Hello!! 👋
+### Hello 👋
 
 `~/github/techman55 $ echo Hi!`
 
